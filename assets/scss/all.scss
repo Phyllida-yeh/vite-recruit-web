@@ -1,5 +1,5 @@
 @import "../../node_modules/bootstrap/scss/functions";
-@import './utils/variables';
+@import "./utils/variables";
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 //@import "../../node_modules/bootstrap/scss/variables";
 //@import "../../node_modules/bootstrap/scss/variables-dark";
@@ -10,10 +10,10 @@
 @import "./utils/utilities";
 @import "bootstrap/scss/utilities/api";
 
-@import './base/base';
+@import "./base/base";
 
-@import './layout/header';
-@import './layout/footer';
+@import "./layout/header";
+@import "./layout/footer";
 
-@import './pages/index';
-@import './pages/user';
+@import "./pages/index";
+@import "./pages/user";
